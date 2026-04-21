@@ -1,2 +1,2 @@
 # MindseekAI
-## working on it
+## working on the project
